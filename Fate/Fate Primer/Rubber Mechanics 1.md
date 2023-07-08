@@ -1,13 +1,15 @@
-% Fate Primer: Rubber Mechanics Part 1[^source]
-% Andrzej 'Enc' Stój[^translation]
+---
+title: 'Fate Primer: Rubber Mechanics Part 1[^source]'
+author: "Andrzej 'Enc' Stój[^translation]"
+---
 
-After reading Fate Core, I had the impression
-that the authors described there a lot of great tools using too
-simple examples. Reading the Fate System Toolkit intensified this
+After reading Fate Core, I had the impression that the authors
+described there a lot of great tools using too simple
+examples. Reading the Fate System Toolkit intensified this
 impression. The settings only confirmed it. The claim that you can
-modify virtually anything in FC and the game will survive that is not
-taken out of (wrong) hat. Rules can be broken on purpose, but that's
-another matter.
+modify virtually anything in Fate and the game will survive that is
+not taken out of the (wrong) hat. Rules can be broken on purpose, but
+that's another matter.
 
 The key to Fate is the creative use of its components in various
 contexts. In simpler terms, assigning character elements to places,
@@ -56,12 +58,12 @@ Just what?
   dose of creativity, he can check if the knight hasn't broken potions
   or if the magic helmet hasn't bent. In other systems, you can also
   be triggered by the level of fatigue or some other status.
-* And in FC it is enough to give a consequence in the form of a
+* And in Fate Core it is enough to give a consequence in the form of a
   [Sprained Ankle]{.mark .smallcaps}. Such an aspect will not stay
   with the hero for long (unless no one is able to treat the sprain -
   then it will stay with the character for some time), but as long as
-  it is on the character sheet, the player can forget about catching up
-  with anyone. During the fight, the enemy will certainly take
+  it is on the character sheet, the player can forget about catching
+  up with anyone. During the fight, the enemy will certainly take
   advantage of this weakness and will maneuver in such a way that the
   knight must rest his weight on the injured leg. All this will cause
   a lot of problems for the team, but at the same time it will earn
