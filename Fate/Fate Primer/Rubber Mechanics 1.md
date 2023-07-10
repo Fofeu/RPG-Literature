@@ -135,8 +135,8 @@ consequences as player characters.
   * Scare away predators (Attack),
   * Create accurate maps and travel records (Attack),
   * Magic to purify food and water (Creating an Advantage), etc.
-* They will reach their goal when The Cursed Grounds give up - they will
-  rather not want to be eliminated (because that would certainly mean
+* They will reach their goal when The Cursed Grounds concede - they will
+  rather not want to be taken out (because that would certainly mean
   the extermination of the ghoul tribes living here and marking safe
   routes - that is, the "death" of the place in terms of mechanics),
   so it won't last indefinitely.
@@ -157,11 +157,11 @@ artifact may give some bonuses, but it will show the strongest powers
 only after "paying the fee" - so that the focus is on the hero, not
 his equipment. This is to simulate (and simulates very well) scenes
 from movies or books where a character succeeds in using a resource at
-a crucial moment. He can fight with a lightsaber the whole campaign, but
-the most important moment is when he rejects it because he doesn't
+a crucial moment. He can fight with a lightsaber the whole campaign,
+but the most important moment is when he rejects it because he doesn't
 want to go to the dark side. He can carry a sword with a Pattern
 Fragment at his side from the first session, but it will come in handy
-when you need to quickly defeat the master swordsman from the Halls of
+when you need to quickly defeat the master swordsman from the Court of
 Chaos.
 
 The Fate Fractal only facilitates the implementation of these
@@ -179,3 +179,4 @@ Stunts) - This is the key to using the Bronze Rule in practice.
 [^source]: Original source:
     <http://3k10.pl/2016/10/24/elementarz-fate-mechanika-jak-z-gumy-czesc-1/>
     Retrieved from: <https://docs.google.com/document/d/1sMuz2SCXrHTKDmLjOjgZNPWaUglKRlADPY2q4zRohs4>
+    This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
