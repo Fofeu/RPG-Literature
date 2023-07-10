@@ -1,2 +1,5 @@
 *.pdf
 *.epub
+/release.zip
+/release.tar.gz
+/build
